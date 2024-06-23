@@ -2,5 +2,5 @@
 
 I write mainly in Common Lisp.
 
-I am also a violinist and violist, teaching violin, viola, and mandolin. 
+I am also a violinist, violist, and mandolinist. 
 You can check out my musical alter-ego at [scaleyourviolin.com](http://scaleyourviolin.com).
